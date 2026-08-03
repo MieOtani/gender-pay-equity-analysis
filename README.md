@@ -1,6 +1,3 @@
-# Gender Pay Equity Analysis
-People analytics consulting project analyzing gender pay equity and workforce diversity using HRIS data and Excel.
-
 # People Analytics Case Study: Gender Pay Equity Analysis
 
 ## Project Overview
@@ -144,25 +141,13 @@ These findings suggested a compensation governance issue rather than isolated sa
 
 ## Dashboard & Analysis
 
-### Gender Pay Gap by Department
+### Gender Pay Gap % by Department
+<img width="1200" height="742" alt="gender_pay_gap" src="https://github.com/user-attachments/assets/77d4b1ce-3bf5-40e8-a5cd-fed969ebe6a3" />
 
-*(Insert image here)*
-
-```markdown
-![Gender Pay Gap by Department](images/gender-pay-gap-department.png)
-```
-
----
 
 ### Pay Gap vs Performance Alignment
+<img width="1200" height="742" alt="it_department" src="https://github.com/user-attachments/assets/3eb33668-3a0b-4fac-beb3-5af1d72297ec" />
 
-*(Insert image here)*
-
-```markdown
-![Performance Alignment](images/performance-alignment.png)
-```
-
----
 
 ## Skills Demonstrated
 
